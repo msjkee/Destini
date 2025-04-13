@@ -11,7 +11,7 @@ class Destini extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-
+        //TODO: DESTINI GAME (tomorrow)
       )
     );
   }
